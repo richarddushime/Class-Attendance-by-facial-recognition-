@@ -1,5 +1,5 @@
 # Class-Attendance-by-facial-recognition-
-Final Defence project in the school of computing and informatics departement of information systems  bugema university  made by Richard and Luya
+Final Defence project in the school of computing and informatics departement of information systems  bugema university  made by Richard Dushime Mudahera
 
 ## How To Run ?
 - clone it on your computer
